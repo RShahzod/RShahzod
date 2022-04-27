@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rshahzod&label=Profile%20views&color=0e75b6&style=flat" alt="rshahzod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rshahzod" alt="rshahzod" /></a> </p>
+
 
 - ⚡ Maxfiy Raqam [Maxfiy Raqamni Aniqlash](https://play.google.com/store/apps/details?id=uz.shox.netnomer)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
